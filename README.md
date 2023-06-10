@@ -5,7 +5,7 @@ I'm a weeb with a love for all things software development and AI. You'll find a
 
 ## Contact me
 
-Discord: `Expl0dingCat#0001`
+Discord: `expl0dingcat`
 
 Tox: `3B8702CDECACB11B25067E3E800E504189FE7A1C29E26A1FE42E780EA1DC0F76A9A04224869B`
 
