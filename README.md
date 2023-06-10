@@ -6,5 +6,7 @@ I'm a weeb with a love for all things software development and AI. You'll find a
 ## Contact me
 
 Discord: `expl0dingcat`
-Email: expl0dingcat@duck.com
+
+Email: `expl0dingcat@duck.com`
+
 Signal: Contact me on one of the above for my signal
