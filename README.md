@@ -9,6 +9,10 @@ A feature-rich, multi-modal, open-source, and easy-to-use virtual assistant fram
 
 more coming soon... stay tuned!
 
+## Support me
+
+If you enjoy my projects, please consider donating to me. I have a **[patreon](https://www.patreon.com/Expl0dingCat)** you can subscribe to and you can contact me for crypto addresses. Thank you!
+
 ## Contact me
 
 Discord: `expl0dingcat`
