@@ -7,6 +7,9 @@ I'm a 16-year-old software developer, machine learning enthusiast and weeb. You'
 ### Ame 💧
 A feature-rich, multi-modal, open-source, and easy-to-use virtual assistant framework powered by LLaMA designed to run entirely locally.
 
+### [NOVARIS](https://novaris.dev) 🚀
+Utlizing bleeding-edge technology to cut costs, improve efficieny and optimize workflows for businesses.
+
 more coming soon... stay tuned!
 
 ## Support me
