@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 🍵
 
-I'm a 16-year-old software developer, machine learning enthusiast and weeb. You'll find an eclectic mix of projects on my page, ranging from practical applications to experimental endeavours. So grab your favourite caffeinated drink, and let's shape the future together!
+I'm a 17-year-old software developer, machine learning enthusiast and weeb. You'll find an eclectic mix of projects on my page, ranging from practical applications to experimental endeavours. So grab your favourite caffeinated drink, and let's shape the future together!
 
 ## Active projects
 
