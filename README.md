@@ -6,13 +6,7 @@ _Like wilting hydrangeas scattering their petals, someday I'll quietly disappear
 
 ## Active projects
 
-### Ame 💧
-A feature-rich, multi-modal, open-source, and easy-to-use virtual assistant framework powered by LLaMA designed to run entirely locally.
-
-### [NOVARIS](https://novaris.dev) 🚀
-Utilizing bleeding-edge technology to cut costs, improve efficiency and optimize workflows for businesses.
-
-More coming soon... stay tuned!
+### More coming soon... stay tuned!
 
 ## Support me
 
