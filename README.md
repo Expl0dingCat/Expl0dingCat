@@ -2,10 +2,12 @@
 
 Computer Science Student @ University of Toronto at Mississauga & Software Developer
 
-Founder @ [pyko-platform](https://github.com/pyko-platform)
+Founder & CEO @ [pyko-platform](https://github.com/pyko-platform)
 
 ## Contact Me
 
 Discord: `expl0dingcat`
-Email: `expl0dingcat@duck.com`
+
+Email: `ethan@pyko.app`
+
 Signal: Contact me on one of the above for my signal
