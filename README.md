@@ -8,6 +8,6 @@ Founder & CEO @ [pyko-platform](https://github.com/pyko-platform)
 
 Discord: `expl0dingcat`
 
-Email: `ethan@pyko.app`
+Email: `ethan@pyko.com`
 
 Signal: Contact me on one of the above for my signal
