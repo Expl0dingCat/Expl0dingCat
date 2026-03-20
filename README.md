@@ -2,7 +2,7 @@
 
 Computer Science Student @ University of Toronto at Mississauga & Software Developer
 
-Founder & CEO @ [pyko-platform](https://github.com/pyko-platform)
+Founder @ [pyko-platform](https://github.com/pyko-platform)
 
 ## Contact Me
 
