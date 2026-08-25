@@ -1,8 +1,6 @@
 # Hi, I'm Ethan 🍵
 
-Computer Science Student @ University of Toronto at Mississauga & Software Developer
-
-Founder @ [pyko-platform](https://github.com/pyko-platform)
+Founder @ [pyko-platform](https://github.com/pyko-platform), AI @ KPMG
 
 ## Contact Me
 
